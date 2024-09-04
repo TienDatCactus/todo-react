@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Run and deploy the web-app :
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+`npm run deploy`
+
+The site will be at [https://tiendatcactus.github.io/todo-react/](https://tiendatcactus.github.io/todo-react/)
 
 ## Available Scripts
 
